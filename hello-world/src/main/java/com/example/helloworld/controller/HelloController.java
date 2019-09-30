@@ -20,6 +20,6 @@ public class HelloController {
     @RequestMapping("/hello")
     public String hello(){
         System.out.println("HelloController hello() 被调用");
-        return "hello world! 田超   第二 第二";
+        return "hello world! 田超   第二 第二 第三";
     }
 }
