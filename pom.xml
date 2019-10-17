@@ -13,5 +13,6 @@
         <module>hello-world</module>
         <module>spring-boot-mybatis/spring-boot-mybatis-xml</module>
         <module>spring-boot-mybatis/spring-boot-mybatis-xml-mulidatasource</module>
+        <module>spring-boot-config02</module>
     </modules>
 </project>
